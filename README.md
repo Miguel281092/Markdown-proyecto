@@ -35,6 +35,7 @@ Esto es un ~~tachado~~
 
 1. Manzana
    1. Gala
+
    2. Verde
    3. Red delicious
 2. Naranja
@@ -71,6 +72,10 @@ print("Hello world")
 | TFT      | 2    | Didier   |
 | Lost ark | 3    | markos   |
 | Lol      | 3    | Jaime    |
+
+| das | ver  | fas  |
+| --- | ---- | ---- |
+| dsa | dasd | fasf |
 
 ![logo 2](logo-lolcito.png "lolcito")
 
